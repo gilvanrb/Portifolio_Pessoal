@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #370707;
+    background-color: #8d0a0a;
     color: rgb(240, 229, 229);
     text-align: center;
     padding: 1em;
@@ -21,7 +21,7 @@ header {
 }
 
 footer {
-    background-color: #370707;
+    background-color: #8d0a0a;
     color: #f3eded;
     text-align: center;
     padding: 1em;
@@ -34,13 +34,14 @@ footer {
     border-radius: 30px !important;
     width: 100%;
 }
+
 .conteudo:hover{
-    background-color: rgb(253, 122, 122) !important;
+    background-color: rgb(105, 166, 235) !important;
 }
 
 a {
     text-decoration: none !important;
-    color: black;
+    color: rgb(34, 30, 30);
 }
 
 .principal {
